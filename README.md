@@ -1,1 +1,1 @@
-# nexys2-cellular-ram-demo
+# memory_tester
